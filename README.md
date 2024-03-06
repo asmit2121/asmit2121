@@ -1,4 +1,4 @@
-<h2 align="left">HI i'm Asmit Kumar is a skilled front-end developer specializing in JavaScript and React.js 😊</h2>
+<h2 align="left">HI i'm Asmit😊</h2>
 
 ###
 
